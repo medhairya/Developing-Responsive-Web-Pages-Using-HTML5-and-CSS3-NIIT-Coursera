@@ -1,0 +1,48 @@
+input   :[type=submit]:default {color:green;}
+
+‹button type="button" class="btn btn-primary">
+Profile
+‹span class="badge bg-info text-dark"›9</span>
+< button>
+
+1. <a href="#" class="btn btn-primary btn-Ig active" role= "button"›Primary link‹/a>
+2. ‹button type="button" class="btn btn-Ig btn-primary" dis="deactivate"›Primary but
+
+
+Three flex items are displayed in a single row and all three items are horizontally aligned at the end of the x-axis
+
+Creates two radios which are on the same horizontal row
+
+‹div class="col-md-6 col-md-offset-3">column offset‹/div>
+
+
+.active
+
+«div class="clearfix visible-xs-block"›</div>
+
+
+.col-
+
+.navbar-toggler
+
+
+.img-thumbnail
+
+12
+
+.data-toggle
+
+.nav, .nav-tabs, .disabled
+
+.list-group
+
+dropdown
+
+All of the above
+
+12
+
+.table-striped
+
+<meta name="viewport" content="width:device-width, initial-scale=1"›
+

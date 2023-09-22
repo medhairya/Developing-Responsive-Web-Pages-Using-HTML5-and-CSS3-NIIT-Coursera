@@ -1,0 +1,49 @@
+
+@media only screen and (min-width: 480px) { article p { column-count: 2 }}
+@media only screen and (max-width: 480px) { section { float: none}}
+@media only screen and (max-width: 1024px) { #wrapper { width: 90%}}
+
+20px
+
+@media only screen and (min-width: 480px) { article p { column-count: 2 }}
+@media only screen and (max-width: 480px) { section { float: none}}
+
+
+@media only screen and (max-width: 1024px) { #wrapper { width: 90%}}
+
+padding: 25px 15px 10px;
+
+
+all li elements are displayed side by side
+selector:pseudo-class{ Property:value}
+
+defines how position elements horizontally
+
+width:auto;
+
+li{ display: inline; }
+
+col-reverse
+
+device-aspect-ratio
+
+Regressive Enhancement
+
+Initial-scale
+
+type
+
+
+Margin, Alignment,
+Border,
+Padding
+
+padding
+
+<link rel=??stylesheet?? href=??file.css??>
+
+
+Tiny Canvas Pattern
+
+
+

@@ -1,0 +1,38 @@
+positioned elements
+To remove unwanted space around the navigation bar
+
+
+margin: 0 auto;
+
+position:absolute;
+top:0;
+right:0;
+
+float:right
+
+body
+
+position
+
+#header
+{
+height:30px;
+width:750px;
+font-color:black;
+}
+
+Selects all <p> elements that are siblings of <div> elements
+
+An img element must have an alt attribute, except under certain conditions
+The type attribute on the ul element is obsolete
+
+visible
+Padding accepts only positive values where in margin accepts both positive and negative values
+
+static
+display
+<select>...<option>
+
+All Of the Above
+
+It defines a new element <video> which specifies a standard way to embed a video.
